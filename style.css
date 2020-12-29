@@ -1,0 +1,17 @@
+body {
+  background-color: #955251;
+}
+h1 {
+  text-align: center;
+}
+div {
+  text-align: center;
+  list-style-position: inside;
+}
+input {
+  border-radius: 25px;
+
+  padding: 20px;
+  width: 400px;
+  height: 50px;
+}
